@@ -6,29 +6,30 @@ This project contains assembly and Verilog code for implementing a single-cycle 
 
 ## Directory Structure
 Assembly/
-    fact.s
-    hw1.s
-    leaf.s
+├── fact.s
+├── hw1.s
+└── leaf.s
 Verilog/
-    CHIP.v
-    fact/
-        fact_data_ans.txt
-        fact_data.txt
-        fact_gen.py
-        fact_text.txt
-    Final_tb.v
-    hw1/
-        hw1_data_ans.txt
-        hw1_data.txt
-        hw1_gen.py
-        hw1_text.txt
-    leaf/
-        leaf_data_ans.txt
-        leaf_data.txt
-        leaf_gen.py
-        leaf_text.txt
-    license.cshrc
-    memory.v
+├── CHIP.v
+├── fact/
+│   ├── fact_data_ans.txt
+│   ├── fact_data.txt
+│   ├── fact_gen.py
+│   └── fact_text.txt
+├── Final_tb.v
+├── hw1/
+│   ├── hw1_data_ans.txt
+│   ├── hw1_data.txt
+│   ├── hw1_gen.py
+│   └── hw1_text.txt
+└── leaf/
+    ├── leaf_data_ans.txt
+    ├── leaf_data.txt
+    ├── leaf_gen.py
+    └── leaf_text.txt
+license.cshrc
+memory.v
+
 
 
 ### Assembly Directory
