@@ -26,10 +26,10 @@ This project contains assembly and Verilog code for implementing a single-cycle 
 
 #### HW1 Directory
 
-- `Verilog/hw1/hw1_data_ans.txt`: Expected output data for the homework assignment.
+- `Verilog/hw1/hw1_data_ans.txt`: Expected output data for the assignment.
 - `Verilog/hw1/hw1_data.txt`: Input data for the assignment.
-- `Verilog/hw1/hw1_gen.py`: Python script to generate input and expected output data for the homework assignment.
-- `Verilog/hw1/hw1_text.txt`: Assembly instructions for the homework assignment.
+- `Verilog/hw1/hw1_gen.py`: Python script to generate input and expected output data for the assignment.
+- `Verilog/hw1/hw1_text.txt`: Assembly instructions for the assignment.
 
 #### Leaf Directory
 
