@@ -18,7 +18,7 @@ This project includes assembly and Verilog implementations of a single-cycle CPU
 
 ### CUP Architecture
 ![cpu_arch](./img/cpu_arch.png)
-(Figure sourced from Chapter 4, "The Processor," in Computer Organization and Design RISC-V Edition by David A. Patterson and John L. Hennessy.)
+(Figure sourced from Chapter 4, "The Processor," in *Computer Organization and Design RISC-V Edition* by David A. Patterson and John L. Hennessy.)
 
 ### Supported Instructions
  - Basic: `auipc`, `jal`, `jalr`, `beq`, `lw`, `sw`, `addi`, `slti`, `add`, `sub`.
@@ -68,7 +68,7 @@ This project includes assembly and Verilog implementations of a single-cycle CPU
 - `Verilog/leaf/leaf_gen.py`: Python script to generate input and expected output data for the leaf function.
 - `Verilog/leaf/leaf_text.txt`: Assembly instructions for the leaf function.
 
-## How to Run
+## How to Run (CPU Testbench)
 
 ### Test 1: Leaf Function
 ```sh
