@@ -69,6 +69,7 @@ This project includes assembly and Verilog implementations of a single-cycle CPU
 - `Verilog/leaf/leaf_text.txt`: Assembly instructions for the leaf function.
 
 ## How to Run (CPU Testbench)
+Below are the instructions for running several test cases to verify the CPU's functionality.
 
 ### Test 1: Leaf Function
 ```sh
